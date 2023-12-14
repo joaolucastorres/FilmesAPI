@@ -7160,11 +7160,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jluca\\source\\repos\\FilmesAPI\\FilmesAPI\\FilmesAPI.csproj",
+      "projectUniqueName": "C:\\Users\\jluca\\OneDrive\\Documents\\GitHub\\FilmesAPI\\FilmesAPI\\FilmesAPI.csproj",
       "projectName": "FilmesAPI",
-      "projectPath": "C:\\Users\\jluca\\source\\repos\\FilmesAPI\\FilmesAPI\\FilmesAPI.csproj",
+      "projectPath": "C:\\Users\\jluca\\OneDrive\\Documents\\GitHub\\FilmesAPI\\FilmesAPI\\FilmesAPI.csproj",
       "packagesPath": "C:\\Users\\jluca\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jluca\\source\\repos\\FilmesAPI\\FilmesAPI\\obj\\",
+      "outputPath": "C:\\Users\\jluca\\OneDrive\\Documents\\GitHub\\FilmesAPI\\FilmesAPI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\jluca\\AppData\\Roaming\\NuGet\\NuGet.Config",
